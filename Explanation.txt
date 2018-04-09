@@ -1,0 +1,30 @@
+<startblock>
+name: Biography
+<endblock>
+<startblock>
+question: What's your name?
+answer-false: George
+answer-false: Caren
+answer-false: Tolik
+answer-true: Ivan
+<endblock>
+<startblock>
+question: Where do your live?
+answer-false: Lviv
+answer-false: Zhytomyr
+answer-false: Kyiv
+answer-true: Berdychiv
+<endblock>
+...
+
+
+
+1. В кожній стрічці по одній команді!!!
+2. Команди <startblock> і <endblock> оголошують початок і кінець блоку відповідно.
+3. Перший блок ЗАВЖДИ назва тесту. Всі подальші блоки - питання і відповіді. Кількість блоків не обмежена
+4. Блоки повинні містити 1 питання і 4 відповіді у кожному.
+5. Для розпізнавання данних використовують такі мітки:
+	"name:" - Назва тесту
+	"question:" - Запитання
+	"answer-true:" - Правильна відповідь. Повинна бути тільки одна у блоці.
+	"answer-false:" - Неправильна відповідь.

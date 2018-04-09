@@ -1,0 +1,38 @@
+<startblock>
+name: Biography
+<endblock>
+<startblock>
+question: What's your name?
+answer-false: George
+answer-false: Caren
+answer-false: Tolik
+answer-true: Ivan
+<endblock>
+<startblock>
+question: Where do your live?
+answer-false: Lviv
+answer-false: Zhytomyr
+answer-false: Kyiv
+answer-true: Berdychiv
+<endblock>
+<startblock>
+question: How do you do?
+answer-false: Fine
+answer-false: Not bad
+answer-false: Bad
+answer-true: True answer
+<endblock>
+<startblock>
+question: Whata r you doing now?
+answer-false: Nothing
+answer-false: Eating
+answer-false: Coding
+answer-true: Testing the program
+<endblock>
+<startblock>
+question: What's your name?
+answer-false: John
+answer-false: Maria
+answer-false: Faith
+answer-true: Ivan
+<endblock>
